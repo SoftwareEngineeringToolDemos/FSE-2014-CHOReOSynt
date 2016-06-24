@@ -8,7 +8,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for CHOReOSynt you will find:
 * :x: Source code (not available)
-* :x: The original tool (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 CHOReOSynt is part of a large EU project CHOReOS and is not a standalone tool as of yet. Please contact [Marco Autili](marco.autili@univaq.it) for details.
 This repository was constructed by [Saurav Shekhar](https://github.com/srvxid) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Marco Autili](http://www.di.univaq.it/marco.autili/) for his help in establishing this repository. 
